@@ -14,13 +14,13 @@
 
 /*------------COLOR NAV--------------*/
 .bg-ryf {
-  background-color: #3150a0;
+  background-color: #28c5a6;
 }
 
 .div-con-imagen {
   position: relative;
   width: 100%;
-  background-image: url('../img/portada/1.jpg');
+  background-image: url('../img/contactanos.jpg');
   background-size: cover;
   background-position: center;
 }
@@ -32,8 +32,8 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #3150a0;
-  opacity: 0.5; /* Ajusta la opacidad para el efecto deseado */
+  background-color: #28c5a6;
+  opacity: 0.2; /* Ajusta la opacidad para el efecto deseado */
 
   pointer-events: none; /* Permite interactuar con los elementos debajo */
 }
@@ -107,8 +107,8 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #c8b04677;
-  opacity: 0.5; /* Ajusta la opacidad para el efecto deseado */
+  background-color: black;
+  opacity: 0.79; /* Ajusta la opacidad para el efecto deseado */
 
   pointer-events: none; /* Permite interactuar con los elementos debajo */
 }
@@ -414,7 +414,7 @@
 }
 
 .bg-seguro {
-  background-image: url("../img/cont.jpg");
+  background-image: url("../img/portada/4.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -537,7 +537,7 @@ html, body {
 
 .btn-serv {
   display: inline-block;
- border: 2px solid #c8b046;
+ border: 2px solid #28c5a6;
   color: rgb(10, 0, 0);
   padding: 12px 20px;
   margin:auto;
@@ -549,7 +549,7 @@ html, body {
 }
 
 .btn-serv:hover {
-  background-color: #c8b046; /* Color más oscuro al pasar el mouse */
+  background-color: #28c5a6; /* Color más oscuro al pasar el mouse */
   transform: scale(1.05); /* Pequeño efecto de agrandamiento */
 }
 
@@ -567,7 +567,7 @@ html, body {
 
 
 .texth {
-  display: none;
+  
 }
 
 .widthicono {
